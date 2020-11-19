@@ -1,0 +1,23 @@
+{
+  "name": "msg.reader",
+  "version": "1.0.0",
+  "description": "MSG Reader is an Outlook Item File (.msg) reader that is built with HTML5.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busyok-bedlam/msg.reader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busyok-bedlam/msg.reader/issues"
+  },
+  "homepage": "https://github.com/busyok-bedlam/msg.reader#readme"
+}
