@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/busyok-bedlam/msg.reader/issues"
   },
-  "homepage": "https://github.com/busyok-bedlam/msg.reader#readme"
+  "homepage": "https://github.com/busyok-bedlam/msg.reader#readme",
+  "dependencies": {
+    "text-encoding": "^0.7.0"
+  }
 }
