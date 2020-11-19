@@ -1,3 +1,4 @@
+const { initMsgReader } = require('./msg.reader');
 module.exports = {
-  initFunction() { console.log('xx') }
+  initMsgReader
 }
