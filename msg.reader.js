@@ -561,6 +561,6 @@ module.exports = {
       }
     };
 
-    global.MSGReader = MSGReader;
+    return MSGReader;
   }
 }
