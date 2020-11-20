@@ -16,8 +16,7 @@
  MSG Reader
  */
 
-module.exports = {
-  initMsgReader() {
+  function initMsgReader() {
     const DataStream = require('./DataStream');
     const { TextDecoder } = require('text-encoding');
     // constants
@@ -563,4 +562,6 @@ module.exports = {
 
     return MSGReader;
   }
+module.exports = {
+  MSGReader: initMsgReader()
 }
