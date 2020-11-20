@@ -562,6 +562,8 @@
 
     return MSGReader;
   }
+
+const MSGReader = initMsgReader();
 module.exports = {
-  MSGReader: initMsgReader()
+  MSGReader
 }
